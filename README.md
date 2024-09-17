@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AlexanderGabrielPeBenito!
-  
-- 🌱 I’m currently learning the basics of Database through MySQL and integrating those into Excel, Power BI, and Tableau.
+
+- 🌱 I’m currently creating a portfolio of my recent works, which include web development through HTML, CSS, and JavaScript.
+
+- 🌱 I have also run through the basics of Database through MySQL and integrating those into Excel, Power BI, and Tableau.
 
 <!---
 AlexanderGabrielPeBenito/AlexanderGabrielPeBenito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
